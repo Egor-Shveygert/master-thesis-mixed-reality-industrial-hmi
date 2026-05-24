@@ -94,12 +94,15 @@ Repozitár obsahuje zdrojové súbory Unity projektu vytvoreného v Unity 2022.3
 ---
 
 ## Štruktúra repozitára
+```text
+.
 ├── Assets/              # Unity assety - skripty, scény, prefaby, materiály, Vuforia databázy
 ├── Packages/            # Unity Package Manager manifest a lokálne MRTK3/Graphics Tools balíky
 ├── ProjectSettings/     # Konfigurácia Unity projektu (XR plugin, OpenXR, MRTK3, Player)
 ├── UserSettings/        # Lokálne nastavenia editora
 ├── .gitignore
 └── README.md
+```
 
 Priečinky `Library/`, `Temp/`, `Obj/`, `Logs/` a `Build/` sa do repozitára necommit-ujú — Unity ich pri prvom otvorení projektu vygeneruje automaticky.
 
