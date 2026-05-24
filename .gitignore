@@ -52,7 +52,8 @@ Desktop.ini
 /QCAR/
 
 # NuGet and package restore caches
-/packages/
+# Do not ignore Unity /Packages/. If a NuGet packages folder appears inside
+# another tool folder, ignore it there instead of at the Unity project root.
 *.nupkg
 
 # Logs and local environment files
