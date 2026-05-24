@@ -191,8 +191,8 @@ V Unity Hub-e cez **Add → Add project from disk** vybrať koreňový priečino
 
 Niektoré balíky sa pre svoju veľkosť alebo licenčné podmienky do repozitára necommit-ujú a je potrebné ich doplniť ručne podľa postupu v DP:
 
-- **Mixed Reality OpenXR Plugin** — cez nástroj Mixed Reality Feature Tool (DP, C.6).
-- **MRTK3 balíky** + **Graphics Tools for Unity** — stiahnuť `.tgz` súbory z oficiálnych GitHub releases a importovať cez Package Manager → *Add package from tarball* v poradí: graphicstools → core → uxcore → standardassets → spatialmanipulation → uxcomponents → input (DP, C.7).
+<!-- - **Mixed Reality OpenXR Plugin** — cez nástroj Mixed Reality Feature Tool (DP, C.6).
+- **MRTK3 balíky** + **Graphics Tools for Unity** — stiahnuť `.tgz` súbory z oficiálnych GitHub releases a importovať cez Package Manager → *Add package from tarball* v poradí: graphicstools → core → uxcore → standardassets → spatialmanipulation → uxcomponents → input (DP, C.7). -->
 - **Vuforia Engine** — z oficiálneho zdroja Vuforia. Licenčný kľúč sa nastavuje vo Vuforia Configuration (DP, podkapitola 8.4.1).
 - **M2MQTT for Unity** — knižnica pre MQTT klienta.
 
