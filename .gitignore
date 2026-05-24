@@ -1,0 +1,66 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/obj/
+/Logs/
+/MemoryCaptures/
+/Recordings/
+
+# Unity build output
+/Build/
+/Builds/
+/Release_build_v2/
+
+# Unity generated solution/project files
+/*.csproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+
+# Unity crash and profiler files
+/sysinfo.txt
+/*.stackdump
+
+# Visual Studio / Rider / VS Code local files
+/.vs/
+/.idea/
+/.vscode/
+/.vsconfig
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Auto-generated asset metadata and caches
+/Assets/AssetStoreTools*
+/Assets/StreamingAssets/aa.meta
+/Assets/StreamingAssets/aa/
+/Assets/AddressableAssetsData/*/*.bin*
+
+# Vuforia / platform generated runtime output outside Unity Assets
+/QCAR/
+
+# NuGet and package restore caches
+/packages/
+*.nupkg
+
+# Logs and local environment files
+*.log
+.env
+.env.*
+
+# Keep Unity project source folders tracked:
+# /Assets/
+# /Packages/
+# /ProjectSettings/

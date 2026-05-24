@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="05_guided" targetId="57e25ea18f584157b3ce0a3b43053eb5" version="14.0" toolVersion="11.4.4" bbox="-0.05 -0.05 -0.05 0.05 0.05 0.05" upVector="0 1 0" previewImage="57e25ea18f584157b3ce0a3b43053eb5_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="05_guideds_assembly" assemblyId="34dac06e078648959b6671f9c9a29503">
+<Part name="05_guided" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="05_GuideView_Default" translation="-0.00677153 -0.00929397 0.399671" rotation="AD: 0.997483 0.202742 -0.420328 227.2" image="05_guided_05_GuideView_Default.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="05_GuideView_Front" translation="0 -0.003 0.275" rotation="AD: 1 0 0 180" image="05_guided_05_GuideView_Front.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="05_GuideView_FrontAngle" translation="-0.002 -0.00961743 0.355876" rotation="AD: 1 0 0 235" image="05_guided_05_GuideView_FrontAngle.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

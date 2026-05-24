@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="04_guided" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="04_guideds_assembly" assemblyId="39d95fffda2f4614a4392301248e0ca2">
+<Part name="04_guided" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="04_GuideView_Default" translation="-0.00734496 -0.00925614 0.399759" rotation="AD: 0.997481 0.202772 -0.420388 227.199" trained="no">
+
+</EntryPoint>
+<EntryPoint name="04_GuideView_AngleTop" translation="-0.00215477 -0.00929663 0.355769" rotation="AD: 1 -7.72648e-16 4.02215e-16 235" trained="no">
+
+</EntryPoint>
+<EntryPoint name="04_GuideView_Front" translation="0.000468282 -0.00315358 0.274953" rotation="AD: 1 -7.72648e-16 0 180" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
